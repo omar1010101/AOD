@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/Pdm/LSTM_v1_artifacts/7dd7f1d4f7ba4bd1ac867150b878a931/artifacts
+end_time: 1723804052905
+entry_point_name: ''
+experiment_id: '224601663755861703'
+lifecycle_stage: active
+run_id: 7dd7f1d4f7ba4bd1ac867150b878a931
+run_name: logging_LSTMv1_windows_size_200
+run_uuid: 7dd7f1d4f7ba4bd1ac867150b878a931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723804052809
+status: 3
+tags: []
+user_id: user
